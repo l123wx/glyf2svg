@@ -24,4 +24,4 @@ Thanks to [fonteditor-core](https://github.com/kekee000/fonteditor-core) and [@a
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/glyf2svg?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=glyf2svg
 [license-src]: https://img.shields.io/github/license/l123wx/glyf2svg.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/l123wx/glyf2svg/blob/main/LICENSE
+[license-href]: https://github.com/l123wx/glyf2svg/blob/master/LICENSE
